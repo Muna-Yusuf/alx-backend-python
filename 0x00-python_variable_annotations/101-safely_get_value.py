@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DOC"""
+"""Given the parameters and the return values, add type annotations to the function"""
 
 
 from typing import Mapping, Any, Union, TypeVar

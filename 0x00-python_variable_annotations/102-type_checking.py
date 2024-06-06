@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""DOC"""
+"""Use mypy to validate the following piece of
+   code and apply any necessary changes."""
 
 
 from typing import Union, Any, Mapping, Tuple, List
