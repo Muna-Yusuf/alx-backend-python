@@ -1,6 +1,6 @@
 #  0x00. Python - Variable Annotations
 
-<p align="center"> <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fy9y25tefi5401.png" width="550" higth="550">
+<p align="center"> <img src="https://www.algorystcorner.com/content/images/size/w1200/2023/02/Variable-annotation-banner.png" width="550" higth="550">
 
 ## Description:
 
