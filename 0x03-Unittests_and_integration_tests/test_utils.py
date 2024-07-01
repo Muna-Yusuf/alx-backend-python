@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Unittests and Integration Tests Tasks."""
 
-from utils import utils.access_nested_map, get_json, memoize
+from utils import access_nested_map, get_json, memoize
 from unittest import TestCaes, mock
 from unittest.mock import patch, Mock
 from parameterized import parameterized
